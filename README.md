@@ -3,6 +3,9 @@
 如有好文, 请到此[issue](https://github.com/birdy0815/front/issues)里提交文章，或者直接发pull request.
 
 ##前端框架
+###Vue.js 一套构建用户界面的 渐进式框架
+[官网](https://cn.vuejs.org/) | [vuex](http://vuex.vuejs.org/zh-cn/) | [vue-router](http://router.vuejs.org/zh-cn/)
+
 
 ##构建/打包工具
 [Gulp](https://github.com/birdy0815/front/blob/master/Gulp.md)

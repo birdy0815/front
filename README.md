@@ -3,9 +3,11 @@
 如有好文, 请到此[issue](https://github.com/birdy0815/front/issues)里提交文章，或者直接发pull request.
 
 ##前端框架
-###Vue.js 一套构建用户界面的 渐进式框架
-[官网](https://cn.vuejs.org/) | [vuex](http://vuex.vuejs.org/zh-cn/) | [vue-router](http://router.vuejs.org/zh-cn/)
-
+[Vue.js](https://cn.vuejs.org/) | [vuex](http://vuex.vuejs.org/zh-cn/) | [vue-router](http://router.vuejs.org/zh-cn/)
+ 一套构建用户界面的 渐进式框架
+ 
+[Backbone.js](http://www.css88.com/doc/backbone/#introduction)
+为复杂WEB应用程序提供模型(models)、集合(collections)、视图(views)的结构。其中模型用于绑定键值数据和自定义事件；集合附有可枚举函数的丰富API； 视图可以声明事件处理函数，并通过RESRful JSON接口连接到应用程序。
 
 ##构建/打包工具
 [Gulp](https://github.com/birdy0815/front/blob/master/Gulp.md)

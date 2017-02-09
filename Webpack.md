@@ -3,9 +3,6 @@
 
 ## webpack 优秀中文文章
 
-
-如有好文, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/1)里提交文章，或者直接发pull request.
-
 ### :mortar_board: webpack入门
 
 #### :closed_book: webpack1.x

@@ -14,6 +14,9 @@
 
 [Webpack](https://github.com/birdy0815/front/blob/master/Webpack.md)
 
+[Fis3](http://fis.baidu.com/)
+（百度出品）为你定制的前端工程构建工具，解决前端开发中自动化工具、性能优化、模块化框架、开发规范、代码部署、开发流程等问题
+
 ##UI框架
 [Material-UI](http://www.material-ui.com/)基于React.js开发的UI框架
 
